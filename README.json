@@ -1,0 +1,261 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "markets/awesome-ruby",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-07-16T20:36:03Z",
+            "owner": "markets",
+            "repo": "awesome-ruby",
+            "stars": 14136
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Awesome Newsletters Ruby",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-04-17T18:23:06Z",
+            "owner": "zudochkin",
+            "repo": "awesome-newsletters",
+            "stars": 4447
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "gramantin/awesome-rails",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-07-16T06:54:45Z",
+            "owner": "gramantin",
+            "repo": "awesome-rails",
+            "stars": 3921
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "jkup/awesome-personal-blogs",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2024-08-05T10:05:56Z",
+            "owner": "jkup",
+            "repo": "awesome-personal-blogs",
+            "stars": 3121
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "dreikanter/ruby-bookmarks",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-04-09T13:08:15Z",
+            "owner": "dreikanter",
+            "repo": "ruby-bookmarks",
+            "stars": 2301
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "sdogruyol/awesome-ruby",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": null,
+            "last_commit": "2024-08-15T08:02:23Z",
+            "owner": "sdogruyol",
+            "repo": "awesome-ruby",
+            "stars": 1266
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "fpsvogel/learn-ruby",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Ruby",
+            "last_commit": "2026-07-09T20:23:00Z",
+            "owner": "fpsvogel",
+            "repo": "learn-ruby",
+            "stars": 851
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "learn-anything/blogs#ruby",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2024-01-02T22:59:20Z",
+            "owner": "linsa-io",
+            "repo": "blogs",
+            "stars": 533
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "endymion1818/awesome-developer-blogs",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-07-02T07:13:37Z",
+            "owner": "endymion1818",
+            "repo": "awesome-developer-blogs",
+            "stars": 140
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "abdelhai/awesome-dev-blogs#ruby",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2019-07-31T12:57:49Z",
+            "owner": "abdelhai",
+            "repo": "awesome-dev-blogs",
+            "stars": 127
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ayarotsky/awesome-rails-with-postgres",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-02-17T18:58:20Z",
+            "owner": "ayarotsky",
+            "repo": "awesome-rails-with-postgres",
+            "stars": 68
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "inputsh/awesome-blogs",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2016-10-12T18:28:28Z",
+            "owner": "inputsh",
+            "repo": "awesome-blogs",
+            "stars": 44
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AwesomeRubyist/awesome_resource_list",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2018-03-29T17:27:23Z",
+            "owner": "AwesomeRubyist",
+            "repo": "awesome_resource_list",
+            "stars": 39
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "pgilad/awesome-blogs",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2023-01-19T15:17:40Z",
+            "owner": "pgilad",
+            "repo": "awesome-blogs",
+            "stars": 38
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "letsila/awesome-blogs",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2024-10-29T08:12:40Z",
+            "owner": "letsila",
+            "repo": "awesome-blogs",
+            "stars": 31
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Darhazer/awesome-rspec",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2024-09-06T11:42:13Z",
+            "owner": "Darhazer",
+            "repo": "awesome-rspec",
+            "stars": 23
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "okuramasafumi/awesome-ruby-articles",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2020-06-03T12:17:24Z",
+            "owner": "okuramasafumi",
+            "repo": "awesome-ruby-articles",
+            "stars": 15
+          }
+        }
+      ],
+      "title": "Other Awesome Ruby (and blogs) Lists"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "License"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T08:03:56.061Z",
+    "original_repository": "Yegorov/awesome-ruby-blogs",
+    "original_repository_sha": "8afa5dedc889bc3029c6be2c57b319d759200aac",
+    "enhanced_repository": "enhansome/enhansome-ruby-blogs",
+    "enhanced_repository_description": null,
+    "title": "Awesome Ruby blogs with stars"
+  }
+}
