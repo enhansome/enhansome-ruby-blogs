@@ -28,7 +28,7 @@
             "last_commit": "2026-04-17T18:23:06Z",
             "owner": "zudochkin",
             "repo": "awesome-newsletters",
-            "stars": 4447
+            "stars": 4446
           }
         },
         {
@@ -42,7 +42,7 @@
             "last_commit": "2026-07-16T06:54:45Z",
             "owner": "gramantin",
             "repo": "awesome-rails",
-            "stars": 3921
+            "stars": 3922
           }
         },
         {
@@ -251,7 +251,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-14T07:59:49.904Z",
+    "last_updated": "2026-08-15T07:09:33.916Z",
     "original_repository": "Yegorov/awesome-ruby-blogs",
     "original_repository_sha": "8afa5dedc889bc3029c6be2c57b319d759200aac",
     "enhanced_repository": "enhansome/enhansome-ruby-blogs",
