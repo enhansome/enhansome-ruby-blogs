@@ -1,7 +1,7 @@
 {
   "items": [
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -10,11 +10,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 21461715,
             "language": null,
             "last_commit": "2026-08-13T09:40:38Z",
             "owner": "markets",
             "repo": "awesome-ruby",
-            "stars": 14140
+            "stars": 14141
           }
         },
         {
@@ -24,6 +25,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 40307075,
             "language": null,
             "last_commit": "2026-04-17T18:23:06Z",
             "owner": "zudochkin",
@@ -38,11 +40,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 22022574,
             "language": null,
             "last_commit": "2026-08-16T18:19:15Z",
             "owner": "gramantin",
             "repo": "awesome-rails",
-            "stars": 3922
+            "stars": 3923
           }
         },
         {
@@ -52,6 +55,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 175145156,
             "language": null,
             "last_commit": "2024-08-05T10:05:56Z",
             "owner": "jkup",
@@ -66,6 +70,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 21204004,
             "language": null,
             "last_commit": "2026-04-09T13:08:15Z",
             "owner": "dreikanter",
@@ -80,6 +85,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 21458866,
             "language": null,
             "last_commit": "2024-08-15T08:02:23Z",
             "owner": "sdogruyol",
@@ -94,11 +100,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 368956146,
             "language": "Ruby",
             "last_commit": "2026-07-09T20:23:00Z",
             "owner": "fpsvogel",
             "repo": "learn-ruby",
-            "stars": 852
+            "stars": 853
           }
         },
         {
@@ -108,6 +115,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 93656741,
             "language": null,
             "last_commit": "2024-01-02T22:59:20Z",
             "owner": "linsa-io",
@@ -122,6 +130,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 159697442,
             "language": null,
             "last_commit": "2026-07-02T07:13:37Z",
             "owner": "endymion1818",
@@ -136,6 +145,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 58164929,
             "language": null,
             "last_commit": "2019-07-31T12:57:49Z",
             "owner": "abdelhai",
@@ -150,6 +160,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 955622780,
             "language": null,
             "last_commit": "2026-02-17T18:58:20Z",
             "owner": "ayarotsky",
@@ -164,6 +175,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 36768236,
             "language": null,
             "last_commit": "2016-10-12T18:28:28Z",
             "owner": "inputsh",
@@ -178,6 +190,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 47388549,
             "language": null,
             "last_commit": "2018-03-29T17:27:23Z",
             "owner": "AwesomeRubyist",
@@ -192,6 +205,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 44929627,
             "language": null,
             "last_commit": "2023-01-19T15:17:40Z",
             "owner": "pgilad",
@@ -206,6 +220,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 167916070,
             "language": null,
             "last_commit": "2024-10-29T08:12:40Z",
             "owner": "letsila",
@@ -220,6 +235,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 775994420,
             "language": null,
             "last_commit": "2024-09-06T11:42:13Z",
             "owner": "Darhazer",
@@ -234,6 +250,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 168111503,
             "language": null,
             "last_commit": "2020-06-03T12:17:24Z",
             "owner": "okuramasafumi",
@@ -243,15 +260,10 @@
         }
       ],
       "title": "Other Awesome Ruby (and blogs) Lists"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "License"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T07:22:42.475Z",
+    "last_updated": "2026-08-19T07:23:22.693Z",
     "original_repository": "Yegorov/awesome-ruby-blogs",
     "original_repository_sha": "8afa5dedc889bc3029c6be2c57b319d759200aac",
     "enhanced_repository": "enhansome/enhansome-ruby-blogs",
