@@ -775,7 +775,7 @@
 
 * [markets/awesome-ruby](https://github.com/markets/awesome-ruby) ⭐ 14,141 | 🐛 8 | 📅 2026-08-13
 * [Awesome Newsletters Ruby](https://github.com/zudochkin/awesome-newsletters#ruby) ⭐ 4,449 | 🐛 42 | 📅 2026-04-17
-* [gramantin/awesome-rails](https://github.com/gramantin/awesome-rails) ⭐ 3,923 | 🐛 2 | 📅 2026-08-16
+* [gramantin/awesome-rails](https://github.com/gramantin/awesome-rails) ⭐ 3,923 | 🐛 1 | 📅 2026-08-19
 * [jkup/awesome-personal-blogs](https://github.com/jkup/awesome-personal-blogs) ⭐ 3,121 | 🐛 40 | 📅 2024-08-05
 * [dreikanter/ruby-bookmarks](https://github.com/dreikanter/ruby-bookmarks) ⭐ 2,301 | 🐛 0 | 📅 2026-04-09
 * [sdogruyol/awesome-ruby](https://github.com/sdogruyol/awesome-ruby) ⚠️ Archived

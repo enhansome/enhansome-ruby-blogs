@@ -42,7 +42,7 @@
             "archived": false,
             "id": 22022574,
             "language": null,
-            "last_commit": "2026-08-16T18:19:15Z",
+            "last_commit": "2026-08-19T12:06:35Z",
             "owner": "gramantin",
             "repo": "awesome-rails",
             "stars": 3923
@@ -263,8 +263,9 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T07:23:22.693Z",
+    "last_updated": "2026-08-19T12:58:07.576Z",
     "original_repository": "Yegorov/awesome-ruby-blogs",
+    "original_repository_id": 232576649,
     "original_repository_sha": "8afa5dedc889bc3029c6be2c57b319d759200aac",
     "enhanced_repository": "enhansome/enhansome-ruby-blogs",
     "enhanced_repository_description": null,
