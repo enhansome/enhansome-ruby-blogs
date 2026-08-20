@@ -15,7 +15,7 @@
             "last_commit": "2026-08-13T09:40:38Z",
             "owner": "markets",
             "repo": "awesome-ruby",
-            "stars": 14141
+            "stars": 14142
           }
         },
         {
@@ -30,7 +30,7 @@
             "last_commit": "2026-04-17T18:23:06Z",
             "owner": "zudochkin",
             "repo": "awesome-newsletters",
-            "stars": 4449
+            "stars": 4450
           }
         },
         {
@@ -263,7 +263,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T12:58:07.576Z",
+    "last_updated": "2026-08-20T07:26:06.066Z",
     "original_repository": "Yegorov/awesome-ruby-blogs",
     "original_repository_id": 232576649,
     "original_repository_sha": "8afa5dedc889bc3029c6be2c57b319d759200aac",
