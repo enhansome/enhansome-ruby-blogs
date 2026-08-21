@@ -773,15 +773,15 @@
 
 ## Other Awesome Ruby (and blogs) Lists [![OPML](https://img.shields.io/badge/OPML-000000?style=flat-square\&color=orange)](/opml/other.opml)
 
-* [markets/awesome-ruby](https://github.com/markets/awesome-ruby) ⭐ 14,142 | 🐛 8 | 📅 2026-08-13
-* [Awesome Newsletters Ruby](https://github.com/zudochkin/awesome-newsletters#ruby) ⭐ 4,450 | 🐛 42 | 📅 2026-04-17
-* [gramantin/awesome-rails](https://github.com/gramantin/awesome-rails) ⭐ 3,923 | 🐛 0 | 📅 2026-08-19
+* [markets/awesome-ruby](https://github.com/markets/awesome-ruby) ⭐ 14,141 | 🐛 8 | 📅 2026-08-13
+* [Awesome Newsletters Ruby](https://github.com/zudochkin/awesome-newsletters#ruby) ⭐ 4,451 | 🐛 42 | 📅 2026-04-17
+* [gramantin/awesome-rails](https://github.com/gramantin/awesome-rails) ⭐ 3,924 | 🐛 0 | 📅 2026-08-19
 * [jkup/awesome-personal-blogs](https://github.com/jkup/awesome-personal-blogs) ⭐ 3,121 | 🐛 40 | 📅 2024-08-05
-* [dreikanter/ruby-bookmarks](https://github.com/dreikanter/ruby-bookmarks) ⭐ 2,301 | 🐛 0 | 📅 2026-04-09
+* [dreikanter/ruby-bookmarks](https://github.com/dreikanter/ruby-bookmarks) ⭐ 2,302 | 🐛 0 | 📅 2026-04-09
 * [sdogruyol/awesome-ruby](https://github.com/sdogruyol/awesome-ruby) ⚠️ Archived
 * [fpsvogel/learn-ruby](https://github.com/fpsvogel/learn-ruby) ⭐ 853 | 🐛 0 | 🌐 Ruby | 📅 2026-07-09
 * [learn-anything/blogs#ruby](https://github.com/learn-anything/blogs#ruby) ⭐ 533 | 🐛 8 | 📅 2024-01-02
-* [endymion1818/awesome-developer-blogs](https://github.com/endymion1818/awesome-developer-blogs) ⭐ 140 | 🐛 1 | 📅 2026-07-02
+* [endymion1818/awesome-developer-blogs](https://github.com/endymion1818/awesome-developer-blogs) ⭐ 141 | 🐛 1 | 📅 2026-07-02
 * [abdelhai/awesome-dev-blogs#ruby](https://github.com/abdelhai/awesome-dev-blogs#ruby) ⭐ 127 | 🐛 4 | 📅 2019-07-31
 * [ayarotsky/awesome-rails-with-postgres](https://github.com/ayarotsky/awesome-rails-with-postgres) ⭐ 68 | 🐛 0 | 📅 2026-02-17
 * [inputsh/awesome-blogs](https://github.com/inputsh/awesome-blogs) ⭐ 44 | 🐛 0 | 📅 2016-10-12
@@ -847,4 +847,4 @@ Note, Web archive and GitHub entries are permanently locked and never updated au
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-20._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-21._
