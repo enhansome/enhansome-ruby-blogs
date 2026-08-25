@@ -30,7 +30,7 @@
             "last_commit": "2026-04-17T18:23:06Z",
             "owner": "zudochkin",
             "repo": "awesome-newsletters",
-            "stars": 4452
+            "stars": 4453
           }
         },
         {
@@ -60,7 +60,7 @@
             "last_commit": "2024-08-05T10:05:56Z",
             "owner": "jkup",
             "repo": "awesome-personal-blogs",
-            "stars": 3122
+            "stars": 3123
           }
         },
         {
@@ -75,7 +75,7 @@
             "last_commit": "2026-04-09T13:08:15Z",
             "owner": "dreikanter",
             "repo": "ruby-bookmarks",
-            "stars": 2302
+            "stars": 2303
           }
         },
         {
@@ -263,7 +263,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T14:26:12.617Z",
+    "last_updated": "2026-08-25T06:16:48.433Z",
     "original_repository": "Yegorov/awesome-ruby-blogs",
     "original_repository_id": 232576649,
     "original_repository_sha": "8afa5dedc889bc3029c6be2c57b319d759200aac",
