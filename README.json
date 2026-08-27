@@ -15,7 +15,7 @@
             "last_commit": "2026-08-13T09:40:38Z",
             "owner": "markets",
             "repo": "awesome-ruby",
-            "stars": 14145
+            "stars": 14144
           }
         },
         {
@@ -30,7 +30,7 @@
             "last_commit": "2026-04-17T18:23:06Z",
             "owner": "zudochkin",
             "repo": "awesome-newsletters",
-            "stars": 4453
+            "stars": 4454
           }
         },
         {
@@ -45,7 +45,7 @@
             "last_commit": "2026-08-19T12:06:35Z",
             "owner": "gramantin",
             "repo": "awesome-rails",
-            "stars": 3923
+            "stars": 3922
           }
         },
         {
@@ -105,7 +105,7 @@
             "last_commit": "2026-07-09T20:23:00Z",
             "owner": "fpsvogel",
             "repo": "learn-ruby",
-            "stars": 853
+            "stars": 852
           }
         },
         {
@@ -120,7 +120,7 @@
             "last_commit": "2024-01-02T22:59:20Z",
             "owner": "linsa-io",
             "repo": "blogs",
-            "stars": 533
+            "stars": 534
           }
         },
         {
@@ -263,9 +263,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T07:29:34.718Z",
-    "original_repository": "Yegorov/awesome-ruby-blogs",
-    "original_repository_id": 232576649,
+    "last_updated": "2026-08-27T12:00:36.120Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 232576649,
+      "language": "Ruby",
+      "last_commit": "2026-07-09T08:23:32Z",
+      "owner": "Yegorov",
+      "repo": "awesome-ruby-blogs",
+      "stars": 415
+    },
     "original_repository_sha": "8afa5dedc889bc3029c6be2c57b319d759200aac",
     "enhanced_repository": "enhansome/enhansome-ruby-blogs",
     "enhanced_repository_description": null,
