@@ -15,8 +15,9 @@
             "last_commit": "2026-08-13T09:40:38Z",
             "owner": "markets",
             "repo": "awesome-ruby",
-            "stars": 14144
-          }
+            "stars": 14147
+          },
+          "first_seen": "2026-08-28T18:59:08.658Z"
         },
         {
           "node_type": "item",
@@ -30,8 +31,9 @@
             "last_commit": "2026-04-17T18:23:06Z",
             "owner": "zudochkin",
             "repo": "awesome-newsletters",
-            "stars": 4454
-          }
+            "stars": 4455
+          },
+          "first_seen": "2026-08-28T18:59:08.658Z"
         },
         {
           "node_type": "item",
@@ -46,7 +48,8 @@
             "owner": "gramantin",
             "repo": "awesome-rails",
             "stars": 3922
-          }
+          },
+          "first_seen": "2026-08-28T18:59:08.658Z"
         },
         {
           "node_type": "item",
@@ -60,8 +63,9 @@
             "last_commit": "2024-08-05T10:05:56Z",
             "owner": "jkup",
             "repo": "awesome-personal-blogs",
-            "stars": 3125
-          }
+            "stars": 3124
+          },
+          "first_seen": "2026-08-28T18:59:08.658Z"
         },
         {
           "node_type": "item",
@@ -76,7 +80,8 @@
             "owner": "dreikanter",
             "repo": "ruby-bookmarks",
             "stars": 2303
-          }
+          },
+          "first_seen": "2026-08-28T18:59:08.658Z"
         },
         {
           "node_type": "item",
@@ -91,7 +96,8 @@
             "owner": "sdogruyol",
             "repo": "awesome-ruby",
             "stars": 1265
-          }
+          },
+          "first_seen": "2026-08-28T18:59:08.658Z"
         },
         {
           "node_type": "item",
@@ -106,7 +112,8 @@
             "owner": "fpsvogel",
             "repo": "learn-ruby",
             "stars": 852
-          }
+          },
+          "first_seen": "2026-08-28T18:59:08.658Z"
         },
         {
           "node_type": "item",
@@ -121,7 +128,8 @@
             "owner": "linsa-io",
             "repo": "blogs",
             "stars": 534
-          }
+          },
+          "first_seen": "2026-08-28T18:59:08.658Z"
         },
         {
           "node_type": "item",
@@ -136,7 +144,8 @@
             "owner": "endymion1818",
             "repo": "awesome-developer-blogs",
             "stars": 141
-          }
+          },
+          "first_seen": "2026-08-28T18:59:08.658Z"
         },
         {
           "node_type": "item",
@@ -151,7 +160,8 @@
             "owner": "abdelhai",
             "repo": "awesome-dev-blogs",
             "stars": 127
-          }
+          },
+          "first_seen": "2026-08-28T18:59:08.658Z"
         },
         {
           "node_type": "item",
@@ -166,7 +176,8 @@
             "owner": "ayarotsky",
             "repo": "awesome-rails-with-postgres",
             "stars": 68
-          }
+          },
+          "first_seen": "2026-08-28T18:59:08.658Z"
         },
         {
           "node_type": "item",
@@ -181,7 +192,8 @@
             "owner": "inputsh",
             "repo": "awesome-blogs",
             "stars": 44
-          }
+          },
+          "first_seen": "2026-08-28T18:59:08.658Z"
         },
         {
           "node_type": "item",
@@ -196,7 +208,8 @@
             "owner": "AwesomeRubyist",
             "repo": "awesome_resource_list",
             "stars": 39
-          }
+          },
+          "first_seen": "2026-08-28T18:59:08.658Z"
         },
         {
           "node_type": "item",
@@ -211,7 +224,8 @@
             "owner": "pgilad",
             "repo": "awesome-blogs",
             "stars": 38
-          }
+          },
+          "first_seen": "2026-08-28T18:59:08.658Z"
         },
         {
           "node_type": "item",
@@ -226,7 +240,8 @@
             "owner": "letsila",
             "repo": "awesome-blogs",
             "stars": 31
-          }
+          },
+          "first_seen": "2026-08-28T18:59:08.658Z"
         },
         {
           "node_type": "item",
@@ -241,7 +256,8 @@
             "owner": "Darhazer",
             "repo": "awesome-rspec",
             "stars": 23
-          }
+          },
+          "first_seen": "2026-08-28T18:59:08.658Z"
         },
         {
           "node_type": "item",
@@ -256,14 +272,15 @@
             "owner": "okuramasafumi",
             "repo": "awesome-ruby-articles",
             "stars": 15
-          }
+          },
+          "first_seen": "2026-08-28T18:59:08.658Z"
         }
       ],
       "title": "Other Awesome Ruby (and blogs) Lists"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T17:52:53.393Z",
+    "last_updated": "2026-08-28T18:59:08.658Z",
     "original_repository_info": {
       "archived": false,
       "id": 232576649,
