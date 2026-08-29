@@ -10,12 +10,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "💎 A collection of awesome Ruby libraries, tools, frameworks and software",
+            "homepage": "https://awesome-ruby.com",
             "id": 21461715,
             "language": null,
+            "license": null,
             "last_commit": "2026-08-13T09:40:38Z",
+            "open_issues": 8,
             "owner": "markets",
             "repo": "awesome-ruby",
-            "stars": 14147
+            "stars": 14148,
+            "topics": [
+              "awesome",
+              "awesome-list",
+              "collection",
+              "curated-list",
+              "ruby",
+              "ruby-libraries"
+            ]
           },
           "first_seen": "2026-08-28T18:59:08.658Z"
         },
@@ -26,12 +38,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A list of amazing Newsletters",
+            "homepage": "https://zudochkin.github.io/awesome-newsletters/",
             "id": 40307075,
             "language": null,
+            "license": null,
             "last_commit": "2026-04-17T18:23:06Z",
+            "open_issues": 47,
             "owner": "zudochkin",
             "repo": "awesome-newsletters",
-            "stars": 4455
+            "stars": 4455,
+            "topics": [
+              "awesome",
+              "awesome-list",
+              "email",
+              "email-newsletter",
+              "emails",
+              "newsletter"
+            ]
           },
           "first_seen": "2026-08-28T18:59:08.658Z"
         },
@@ -42,12 +66,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A curated list of awesome things related to Ruby on Rails",
+            "homepage": null,
             "id": 22022574,
             "language": null,
+            "license": "MIT",
             "last_commit": "2026-08-19T12:06:35Z",
+            "open_issues": 0,
             "owner": "gramantin",
             "repo": "awesome-rails",
-            "stars": 3922
+            "stars": 3923,
+            "topics": [
+              "awesome",
+              "awesome-list",
+              "opensource-apps",
+              "rails"
+            ]
           },
           "first_seen": "2026-08-28T18:59:08.658Z"
         },
@@ -58,12 +92,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A delightful list of personal tech blogs",
+            "homepage": null,
             "id": 175145156,
             "language": null,
+            "license": null,
             "last_commit": "2024-08-05T10:05:56Z",
+            "open_issues": 39,
             "owner": "jkup",
             "repo": "awesome-personal-blogs",
-            "stars": 3124
+            "stars": 3124,
+            "topics": []
           },
           "first_seen": "2026-08-28T18:59:08.658Z"
         },
@@ -74,12 +113,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Ruby and Ruby on Rails bookmarks collection",
+            "homepage": null,
             "id": 21204004,
             "language": null,
+            "license": null,
             "last_commit": "2026-04-09T13:08:15Z",
+            "open_issues": 0,
             "owner": "dreikanter",
             "repo": "ruby-bookmarks",
-            "stars": 2303
+            "stars": 2303,
+            "topics": [
+              "awesome",
+              "awesome-list",
+              "bookmarks",
+              "list",
+              "rails",
+              "ruby"
+            ]
           },
           "first_seen": "2026-08-28T18:59:08.658Z"
         },
@@ -90,12 +141,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "A curated list of awesome Ruby frameworks, libraries and resources. Inspired by awesome-php & awesome-python.",
+            "homepage": null,
             "id": 21458866,
             "language": null,
+            "license": null,
             "last_commit": "2024-08-15T08:02:23Z",
+            "open_issues": 8,
             "owner": "sdogruyol",
             "repo": "awesome-ruby",
-            "stars": 1265
+            "stars": 1265,
+            "topics": []
           },
           "first_seen": "2026-08-28T18:59:08.658Z"
         },
@@ -106,12 +162,35 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Learning resources for Ruby, Rails, and related skills.",
+            "homepage": "https://letslearnruby.com",
             "id": 368956146,
             "language": "Ruby",
+            "license": null,
             "last_commit": "2026-07-09T20:23:00Z",
+            "open_issues": 0,
             "owner": "fpsvogel",
             "repo": "learn-ruby",
-            "stars": 852
+            "stars": 852,
+            "topics": [
+              "awesome-list",
+              "awesome-rails",
+              "awesome-ruby",
+              "book-list",
+              "books",
+              "bookshelf",
+              "curriculum",
+              "learning",
+              "practice",
+              "programming",
+              "rails",
+              "resources",
+              "ruby",
+              "ruby-on-rails",
+              "study-materials",
+              "tutorial",
+              "web-development"
+            ]
           },
           "first_seen": "2026-08-28T18:59:08.658Z"
         },
@@ -122,12 +201,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Awesome Blogs",
+            "homepage": null,
             "id": 93656741,
             "language": null,
+            "license": null,
             "last_commit": "2024-01-02T22:59:20Z",
+            "open_issues": 8,
             "owner": "linsa-io",
             "repo": "blogs",
-            "stars": 534
+            "stars": 534,
+            "topics": [
+              "awesome",
+              "awesome-list",
+              "blogs",
+              "curated-list",
+              "knowledge"
+            ]
           },
           "first_seen": "2026-08-28T18:59:08.658Z"
         },
@@ -138,12 +228,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Are you a developer? Do you have a blog? Please submit a PR!",
+            "homepage": null,
             "id": 159697442,
             "language": null,
+            "license": null,
             "last_commit": "2026-07-02T07:13:37Z",
+            "open_issues": 1,
             "owner": "endymion1818",
             "repo": "awesome-developer-blogs",
-            "stars": 141
+            "stars": 141,
+            "topics": []
           },
           "first_seen": "2026-08-28T18:59:08.658Z"
         },
@@ -154,12 +249,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "awesome-dev-blogs",
+            "homepage": null,
             "id": 58164929,
             "language": null,
+            "license": null,
             "last_commit": "2019-07-31T12:57:49Z",
+            "open_issues": 4,
             "owner": "abdelhai",
             "repo": "awesome-dev-blogs",
-            "stars": 127
+            "stars": 127,
+            "topics": []
           },
           "first_seen": "2026-08-28T18:59:08.658Z"
         },
@@ -170,12 +270,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A curated collection of gems and books for building and optimizing Rails apps with Postgres",
+            "homepage": null,
             "id": 955622780,
             "language": null,
+            "license": "MIT",
             "last_commit": "2026-02-17T18:58:20Z",
+            "open_issues": 0,
             "owner": "ayarotsky",
             "repo": "awesome-rails-with-postgres",
-            "stars": 68
+            "stars": 68,
+            "topics": []
           },
           "first_seen": "2026-08-28T18:59:08.658Z"
         },
@@ -186,12 +291,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A list of awesome blogs all across the Internet",
+            "homepage": null,
             "id": 36768236,
             "language": null,
+            "license": "WTFPL",
             "last_commit": "2016-10-12T18:28:28Z",
+            "open_issues": 0,
             "owner": "inputsh",
             "repo": "awesome-blogs",
-            "stars": 44
+            "stars": 44,
+            "topics": []
           },
           "first_seen": "2026-08-28T18:59:08.658Z"
         },
@@ -202,12 +312,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Awesome resources and links for Ruby developers",
+            "homepage": null,
             "id": 47388549,
             "language": null,
+            "license": null,
             "last_commit": "2018-03-29T17:27:23Z",
+            "open_issues": 0,
             "owner": "AwesomeRubyist",
             "repo": "awesome_resource_list",
-            "stars": 39
+            "stars": 39,
+            "topics": [
+              "awesome-list",
+              "ruby"
+            ]
           },
           "first_seen": "2026-08-28T18:59:08.658Z"
         },
@@ -218,12 +336,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A curated list of awesome blogs",
+            "homepage": null,
             "id": 44929627,
             "language": null,
+            "license": "MIT",
             "last_commit": "2023-01-19T15:17:40Z",
+            "open_issues": 0,
             "owner": "pgilad",
             "repo": "awesome-blogs",
-            "stars": 38
+            "stars": 38,
+            "topics": [
+              "awesome",
+              "blogs",
+              "tech"
+            ]
           },
           "first_seen": "2026-08-28T18:59:08.658Z"
         },
@@ -234,12 +361,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Curated list of awesome blogs by awesome people",
+            "homepage": null,
             "id": 167916070,
             "language": null,
+            "license": "MIT",
             "last_commit": "2024-10-29T08:12:40Z",
+            "open_issues": 0,
             "owner": "letsila",
             "repo": "awesome-blogs",
-            "stars": 31
+            "stars": 31,
+            "topics": [
+              "awesome",
+              "awesome-list",
+              "awesomeness",
+              "blogs"
+            ]
           },
           "first_seen": "2026-08-28T18:59:08.658Z"
         },
@@ -250,12 +387,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Curated list of awesome RSpec related resources",
+            "homepage": null,
             "id": 775994420,
             "language": null,
+            "license": "CC0-1.0",
             "last_commit": "2024-09-06T11:42:13Z",
+            "open_issues": 0,
             "owner": "Darhazer",
             "repo": "awesome-rspec",
-            "stars": 23
+            "stars": 23,
+            "topics": [
+              "awesome",
+              "awesome-list",
+              "awesome-lists",
+              "awesome-rspec",
+              "rspec"
+            ]
           },
           "first_seen": "2026-08-28T18:59:08.658Z"
         },
@@ -266,12 +414,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A curated list of awesome Ruby articles",
+            "homepage": null,
             "id": 168111503,
             "language": null,
+            "license": null,
             "last_commit": "2020-06-03T12:17:24Z",
+            "open_issues": 0,
             "owner": "okuramasafumi",
             "repo": "awesome-ruby-articles",
-            "stars": 15
+            "stars": 15,
+            "topics": []
           },
           "first_seen": "2026-08-28T18:59:08.658Z"
         }
@@ -280,15 +433,27 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T18:59:08.658Z",
+    "last_updated": "2026-08-29T04:44:04.264Z",
     "original_repository_info": {
       "archived": false,
+      "description": "A curated list of Awesome Ruby Blogs and Newsletters for Ruby Developers and Newbies",
+      "homepage": "https://github.com/Yegorov/awesome-ruby-blogs",
       "id": 232576649,
       "language": "Ruby",
+      "license": null,
       "last_commit": "2026-07-09T08:23:32Z",
+      "open_issues": 0,
       "owner": "Yegorov",
       "repo": "awesome-ruby-blogs",
-      "stars": 415
+      "stars": 415,
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "blogs",
+        "curated-list",
+        "rails",
+        "ruby"
+      ]
     },
     "original_repository_sha": "8afa5dedc889bc3029c6be2c57b319d759200aac",
     "enhanced_repository": "enhansome/enhansome-ruby-blogs",
