@@ -237,7 +237,7 @@
             "open_issues": 1,
             "owner": "endymion1818",
             "repo": "awesome-developer-blogs",
-            "stars": 141,
+            "stars": 142,
             "topics": []
           },
           "first_seen": "2026-08-28T18:59:08.658Z"
@@ -279,7 +279,7 @@
             "open_issues": 0,
             "owner": "ayarotsky",
             "repo": "awesome-rails-with-postgres",
-            "stars": 68,
+            "stars": 69,
             "topics": []
           },
           "first_seen": "2026-08-28T18:59:08.658Z"
@@ -433,7 +433,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-30T12:11:20.627Z",
+    "last_updated": "2026-08-31T14:22:49.586Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Awesome Ruby Blogs and Newsletters for Ruby Developers and Newbies",
