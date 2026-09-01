@@ -47,7 +47,7 @@
             "open_issues": 47,
             "owner": "zudochkin",
             "repo": "awesome-newsletters",
-            "stars": 4455,
+            "stars": 4456,
             "topics": [
               "awesome",
               "awesome-list",
@@ -433,7 +433,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-31T14:22:49.586Z",
+    "last_updated": "2026-09-01T11:58:55.850Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Awesome Ruby Blogs and Newsletters for Ruby Developers and Newbies",
