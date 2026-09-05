@@ -776,7 +776,7 @@
 * [markets/awesome-ruby](https://github.com/markets/awesome-ruby) ⭐ 14,150 | 🐛 7 | 📅 2026-08-13
 * [Awesome Newsletters Ruby](https://github.com/zudochkin/awesome-newsletters#ruby) ⭐ 4,458 | 🐛 51 | 📅 2026-04-17
 * [gramantin/awesome-rails](https://github.com/gramantin/awesome-rails) ⭐ 3,924 | 🐛 0 | 📅 2026-09-04
-* [jkup/awesome-personal-blogs](https://github.com/jkup/awesome-personal-blogs) ⭐ 3,124 | 🐛 39 | 📅 2024-08-05
+* [jkup/awesome-personal-blogs](https://github.com/jkup/awesome-personal-blogs) ⭐ 3,125 | 🐛 39 | 📅 2024-08-05
 * [dreikanter/ruby-bookmarks](https://github.com/dreikanter/ruby-bookmarks) ⭐ 2,303 | 🐛 0 | 📅 2026-04-09
 * [sdogruyol/awesome-ruby](https://github.com/sdogruyol/awesome-ruby) ⚠️ Archived
 * [fpsvogel/learn-ruby](https://github.com/fpsvogel/learn-ruby) ⭐ 852 | 🐛 0 | 🌐 Ruby | 📅 2026-07-09
@@ -787,7 +787,7 @@
 * [inputsh/awesome-blogs](https://github.com/inputsh/awesome-blogs) ⭐ 44 | 🐛 0 | 📅 2016-10-12
 * [AwesomeRubyist/awesome\_resource\_list](https://github.com/AwesomeRubyist/awesome_resource_list) ⭐ 39 | 🐛 0 | 📅 2018-03-29
 * [pgilad/awesome-blogs](https://github.com/pgilad/awesome-blogs) ⭐ 38 | 🐛 0 | 📅 2023-01-19
-* [letsila/awesome-blogs](https://github.com/letsila/awesome-blogs) ⭐ 31 | 🐛 0 | 📅 2024-10-29
+* [letsila/awesome-blogs](https://github.com/letsila/awesome-blogs) ⭐ 32 | 🐛 0 | 📅 2024-10-29
 * [Darhazer/awesome-rspec](https://github.com/Darhazer/awesome-rspec) ⭐ 23 | 🐛 0 | 📅 2024-09-06
 * [okuramasafumi/awesome-ruby-articles](https://github.com/okuramasafumi/awesome-ruby-articles) ⭐ 15 | 🐛 0 | 📅 2020-06-03
 * [Planet Argon - 2020 Ruby on Rails Community Survey Results](https://rails-hosting.com/2020/#learning)
@@ -847,4 +847,4 @@ Note, Web archive and GitHub entries are permanently locked and never updated au
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-04._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-05._

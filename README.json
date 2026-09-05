@@ -101,7 +101,7 @@
             "open_issues": 39,
             "owner": "jkup",
             "repo": "awesome-personal-blogs",
-            "stars": 3124,
+            "stars": 3125,
             "topics": []
           },
           "first_seen": "2026-08-28T18:59:08.658Z"
@@ -370,7 +370,7 @@
             "open_issues": 0,
             "owner": "letsila",
             "repo": "awesome-blogs",
-            "stars": 31,
+            "stars": 32,
             "topics": [
               "awesome",
               "awesome-list",
@@ -433,7 +433,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-04T11:42:33.858Z",
+    "last_updated": "2026-09-05T10:53:51.059Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Awesome Ruby Blogs and Newsletters for Ruby Developers and Newbies",
