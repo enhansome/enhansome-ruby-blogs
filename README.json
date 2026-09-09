@@ -101,7 +101,7 @@
             "open_issues": 39,
             "owner": "jkup",
             "repo": "awesome-personal-blogs",
-            "stars": 3125,
+            "stars": 3124,
             "topics": []
           },
           "first_seen": "2026-08-28T18:59:08.658Z"
@@ -433,7 +433,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-08T11:42:36.396Z",
+    "last_updated": "2026-09-09T11:48:24.323Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Awesome Ruby Blogs and Newsletters for Ruby Developers and Newbies",
