@@ -775,9 +775,9 @@
 
 * [markets/awesome-ruby](https://github.com/markets/awesome-ruby) ⭐ 14,156 | 🐛 9 | 📅 2026-09-08
 * [Awesome Newsletters Ruby](https://github.com/zudochkin/awesome-newsletters#ruby) ⭐ 4,472 | 🐛 54 | 📅 2026-04-17
-* [gramantin/awesome-rails](https://github.com/gramantin/awesome-rails) ⭐ 3,927 | 🐛 1 | 📅 2026-09-17
+* [gramantin/awesome-rails](https://github.com/gramantin/awesome-rails) ⭐ 3,927 | 🐛 0 | 📅 2026-09-21
 * [jkup/awesome-personal-blogs](https://github.com/jkup/awesome-personal-blogs) ⭐ 3,124 | 🐛 39 | 📅 2024-08-05
-* [dreikanter/ruby-bookmarks](https://github.com/dreikanter/ruby-bookmarks) ⭐ 2,305 | 🐛 0 | 📅 2026-04-09
+* [dreikanter/ruby-bookmarks](https://github.com/dreikanter/ruby-bookmarks) ⭐ 2,306 | 🐛 0 | 📅 2026-04-09
 * [sdogruyol/awesome-ruby](https://github.com/sdogruyol/awesome-ruby) ⚠️ Archived
 * [fpsvogel/learn-ruby](https://github.com/fpsvogel/learn-ruby) ⭐ 852 | 🐛 0 | 🌐 Ruby | 📅 2026-07-09
 * [learn-anything/blogs#ruby](https://github.com/learn-anything/blogs#ruby) ⭐ 533 | 🐛 8 | 📅 2024-01-02
@@ -847,4 +847,4 @@ Note, Web archive and GitHub entries are permanently locked and never updated au
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-20._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-21._
