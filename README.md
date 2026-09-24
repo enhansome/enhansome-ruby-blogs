@@ -773,9 +773,9 @@
 
 ## Other Awesome Ruby (and blogs) Lists [![OPML](https://img.shields.io/badge/OPML-000000?style=flat-square\&color=orange)](/opml/other.opml)
 
-* [markets/awesome-ruby](https://github.com/markets/awesome-ruby) ⭐ 14,157 | 🐛 9 | 📅 2026-09-22
+* [markets/awesome-ruby](https://github.com/markets/awesome-ruby) ⭐ 14,159 | 🐛 9 | 📅 2026-09-22
 * [Awesome Newsletters Ruby](https://github.com/zudochkin/awesome-newsletters#ruby) ⭐ 4,472 | 🐛 54 | 📅 2026-04-17
-* [gramantin/awesome-rails](https://github.com/gramantin/awesome-rails) ⭐ 3,928 | 🐛 0 | 📅 2026-09-21
+* [gramantin/awesome-rails](https://github.com/gramantin/awesome-rails) ⭐ 3,929 | 🐛 0 | 📅 2026-09-21
 * [jkup/awesome-personal-blogs](https://github.com/jkup/awesome-personal-blogs) ⭐ 3,124 | 🐛 39 | 📅 2024-08-05
 * [dreikanter/ruby-bookmarks](https://github.com/dreikanter/ruby-bookmarks) ⭐ 2,306 | 🐛 0 | 📅 2026-04-09
 * [sdogruyol/awesome-ruby](https://github.com/sdogruyol/awesome-ruby) ⚠️ Archived
@@ -787,7 +787,7 @@
 * [inputsh/awesome-blogs](https://github.com/inputsh/awesome-blogs) ⭐ 44 | 🐛 0 | 📅 2016-10-12
 * [AwesomeRubyist/awesome\_resource\_list](https://github.com/AwesomeRubyist/awesome_resource_list) ⭐ 39 | 🐛 0 | 📅 2018-03-29
 * [pgilad/awesome-blogs](https://github.com/pgilad/awesome-blogs) ⭐ 38 | 🐛 0 | 📅 2023-01-19
-* [letsila/awesome-blogs](https://github.com/letsila/awesome-blogs) ⭐ 32 | 🐛 0 | 📅 2024-10-29
+* [letsila/awesome-blogs](https://github.com/letsila/awesome-blogs) ⭐ 32 | 🐛 1 | 📅 2024-10-29
 * [Darhazer/awesome-rspec](https://github.com/Darhazer/awesome-rspec) ⭐ 23 | 🐛 0 | 📅 2024-09-06
 * [okuramasafumi/awesome-ruby-articles](https://github.com/okuramasafumi/awesome-ruby-articles) ⭐ 15 | 🐛 0 | 📅 2020-06-03
 * [Planet Argon - 2020 Ruby on Rails Community Survey Results](https://rails-hosting.com/2020/#learning)
@@ -847,4 +847,4 @@ Note, Web archive and GitHub entries are permanently locked and never updated au
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-23._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-24._
