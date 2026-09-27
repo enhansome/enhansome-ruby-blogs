@@ -774,12 +774,12 @@
 ## Other Awesome Ruby (and blogs) Lists [![OPML](https://img.shields.io/badge/OPML-000000?style=flat-square\&color=orange)](/opml/other.opml)
 
 * [markets/awesome-ruby](https://github.com/markets/awesome-ruby) ⭐ 14,159 | 🐛 9 | 📅 2026-09-22
-* [Awesome Newsletters Ruby](https://github.com/zudochkin/awesome-newsletters#ruby) ⭐ 4,474 | 🐛 55 | 📅 2026-04-17
+* [Awesome Newsletters Ruby](https://github.com/zudochkin/awesome-newsletters#ruby) ⭐ 4,477 | 🐛 55 | 📅 2026-04-17
 * [gramantin/awesome-rails](https://github.com/gramantin/awesome-rails) ⭐ 3,929 | 🐛 0 | 📅 2026-09-21
 * [jkup/awesome-personal-blogs](https://github.com/jkup/awesome-personal-blogs) ⭐ 3,124 | 🐛 39 | 📅 2024-08-05
 * [dreikanter/ruby-bookmarks](https://github.com/dreikanter/ruby-bookmarks) ⭐ 2,306 | 🐛 0 | 📅 2026-04-09
 * [sdogruyol/awesome-ruby](https://github.com/sdogruyol/awesome-ruby) ⚠️ Archived
-* [fpsvogel/learn-ruby](https://github.com/fpsvogel/learn-ruby) ⭐ 852 | 🐛 0 | 🌐 Ruby | 📅 2026-07-09
+* [fpsvogel/learn-ruby](https://github.com/fpsvogel/learn-ruby) ⭐ 853 | 🐛 0 | 🌐 Ruby | 📅 2026-07-09
 * [learn-anything/blogs#ruby](https://github.com/learn-anything/blogs#ruby) ⭐ 533 | 🐛 8 | 📅 2024-01-02
 * [endymion1818/awesome-developer-blogs](https://github.com/endymion1818/awesome-developer-blogs) ⭐ 143 | 🐛 2 | 📅 2026-07-02
 * [abdelhai/awesome-dev-blogs#ruby](https://github.com/abdelhai/awesome-dev-blogs#ruby) ⭐ 126 | 🐛 4 | 📅 2019-07-31
@@ -847,4 +847,4 @@ Note, Web archive and GitHub entries are permanently locked and never updated au
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-26._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-27._
