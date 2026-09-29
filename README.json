@@ -19,7 +19,7 @@
             "open_issues": 9,
             "owner": "markets",
             "repo": "awesome-ruby",
-            "stars": 14160,
+            "stars": 14161,
             "topics": [
               "awesome",
               "awesome-list",
@@ -71,11 +71,11 @@
             "id": 22022574,
             "language": null,
             "license": "MIT",
-            "last_commit": "2026-09-21T06:26:22Z",
-            "open_issues": 1,
+            "last_commit": "2026-09-28T18:01:57Z",
+            "open_issues": 0,
             "owner": "gramantin",
             "repo": "awesome-rails",
-            "stars": 3930,
+            "stars": 3929,
             "topics": [
               "awesome",
               "awesome-list",
@@ -101,7 +101,7 @@
             "open_issues": 39,
             "owner": "jkup",
             "repo": "awesome-personal-blogs",
-            "stars": 3124,
+            "stars": 3125,
             "topics": []
           },
           "first_seen": "2026-08-28T18:59:08.658Z"
@@ -122,7 +122,7 @@
             "open_issues": 0,
             "owner": "dreikanter",
             "repo": "ruby-bookmarks",
-            "stars": 2306,
+            "stars": 2307,
             "topics": [
               "awesome",
               "awesome-list",
@@ -171,7 +171,7 @@
             "open_issues": 0,
             "owner": "fpsvogel",
             "repo": "learn-ruby",
-            "stars": 853,
+            "stars": 854,
             "topics": [
               "awesome-list",
               "awesome-rails",
@@ -433,7 +433,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-28T14:25:07.879Z",
+    "last_updated": "2026-09-29T13:17:20.797Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Awesome Ruby Blogs and Newsletters for Ruby Developers and Newbies",
@@ -442,7 +442,7 @@
       "language": "Ruby",
       "license": null,
       "last_commit": "2026-07-09T08:23:32Z",
-      "open_issues": 0,
+      "open_issues": 1,
       "owner": "Yegorov",
       "repo": "awesome-ruby-blogs",
       "stars": 416,
