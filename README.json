@@ -19,7 +19,7 @@
             "open_issues": 9,
             "owner": "markets",
             "repo": "awesome-ruby",
-            "stars": 14161,
+            "stars": 14163,
             "topics": [
               "awesome",
               "awesome-list",
@@ -47,7 +47,7 @@
             "open_issues": 55,
             "owner": "zudochkin",
             "repo": "awesome-newsletters",
-            "stars": 4486,
+            "stars": 4488,
             "topics": [
               "awesome",
               "awesome-list",
@@ -71,11 +71,11 @@
             "id": 22022574,
             "language": null,
             "license": "MIT",
-            "last_commit": "2026-09-28T18:01:57Z",
+            "last_commit": "2026-09-30T08:27:36Z",
             "open_issues": 0,
             "owner": "gramantin",
             "repo": "awesome-rails",
-            "stars": 3929,
+            "stars": 3930,
             "topics": [
               "awesome",
               "awesome-list",
@@ -98,7 +98,7 @@
             "language": null,
             "license": null,
             "last_commit": "2024-08-05T10:05:56Z",
-            "open_issues": 39,
+            "open_issues": 38,
             "owner": "jkup",
             "repo": "awesome-personal-blogs",
             "stars": 3125,
@@ -433,7 +433,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-29T13:17:20.797Z",
+    "last_updated": "2026-09-30T12:58:23.834Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Awesome Ruby Blogs and Newsletters for Ruby Developers and Newbies",
@@ -441,8 +441,8 @@
       "id": 232576649,
       "language": "Ruby",
       "license": null,
-      "last_commit": "2026-07-09T08:23:32Z",
-      "open_issues": 1,
+      "last_commit": "2026-09-30T08:30:53Z",
+      "open_issues": 0,
       "owner": "Yegorov",
       "repo": "awesome-ruby-blogs",
       "stars": 416,
@@ -455,7 +455,7 @@
         "ruby"
       ]
     },
-    "original_repository_sha": "8afa5dedc889bc3029c6be2c57b319d759200aac",
+    "original_repository_sha": "f1e008e157c0b913c3c08d70d33a3a21479cb272",
     "enhanced_repository": "enhansome/enhansome-ruby-blogs",
     "enhanced_repository_description": null,
     "title": "Awesome Ruby blogs with stars"

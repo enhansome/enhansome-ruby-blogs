@@ -178,6 +178,7 @@
 * [Anna Gavrilova](https://kotogavr.vercel.app/blog)
 * [Anthony Drake](https://www.t27duck.com/posts) ([rss](https://www.t27duck.com/posts.xml))
 * [Anton Davydov](https://www.davydovanton.com/blog/) ([rss](https://www.davydovanton.com/atom.xml))
+* [Anton Kopylov](https://www.kopylov.net/blog.html) ([rss](https://www.kopylov.net/blog/feed.xml))
 * [Aotokitsuruya](https://blog.aotoki.me/en/) ([rss](https://blog.aotoki.me/en/index.xml))
 * [Aristóteles Coutinho](https://aristotelescoutinho.com.br/)
 * [Augusts Bautra](https://epigene.github.io/) ([rss](https://epigene.github.io/feed.xml))
@@ -773,10 +774,10 @@
 
 ## Other Awesome Ruby (and blogs) Lists [![OPML](https://img.shields.io/badge/OPML-000000?style=flat-square\&color=orange)](/opml/other.opml)
 
-* [markets/awesome-ruby](https://github.com/markets/awesome-ruby) ⭐ 14,161 | 🐛 9 | 📅 2026-09-22
-* [Awesome Newsletters Ruby](https://github.com/zudochkin/awesome-newsletters#ruby) ⭐ 4,486 | 🐛 55 | 📅 2026-04-17
-* [gramantin/awesome-rails](https://github.com/gramantin/awesome-rails) ⭐ 3,929 | 🐛 0 | 📅 2026-09-28
-* [jkup/awesome-personal-blogs](https://github.com/jkup/awesome-personal-blogs) ⭐ 3,125 | 🐛 39 | 📅 2024-08-05
+* [markets/awesome-ruby](https://github.com/markets/awesome-ruby) ⭐ 14,163 | 🐛 9 | 📅 2026-09-22
+* [Awesome Newsletters Ruby](https://github.com/zudochkin/awesome-newsletters#ruby) ⭐ 4,488 | 🐛 55 | 📅 2026-04-17
+* [gramantin/awesome-rails](https://github.com/gramantin/awesome-rails) ⭐ 3,930 | 🐛 0 | 📅 2026-09-30
+* [jkup/awesome-personal-blogs](https://github.com/jkup/awesome-personal-blogs) ⭐ 3,125 | 🐛 38 | 📅 2024-08-05
 * [dreikanter/ruby-bookmarks](https://github.com/dreikanter/ruby-bookmarks) ⭐ 2,307 | 🐛 0 | 📅 2026-04-09
 * [sdogruyol/awesome-ruby](https://github.com/sdogruyol/awesome-ruby) ⚠️ Archived
 * [fpsvogel/learn-ruby](https://github.com/fpsvogel/learn-ruby) ⭐ 854 | 🐛 0 | 🌐 Ruby | 📅 2026-07-09
@@ -847,4 +848,4 @@ Note, Web archive and GitHub entries are permanently locked and never updated au
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-29._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-30._
