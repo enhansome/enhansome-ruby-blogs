@@ -15,11 +15,11 @@
             "id": 21461715,
             "language": null,
             "license": null,
-            "last_commit": "2026-10-01T16:25:26Z",
+            "last_commit": "2026-10-04T08:37:09Z",
             "open_issues": 9,
             "owner": "markets",
             "repo": "awesome-ruby",
-            "stars": 14164,
+            "stars": 14165,
             "topics": [
               "awesome",
               "awesome-list",
@@ -101,7 +101,7 @@
             "open_issues": 38,
             "owner": "jkup",
             "repo": "awesome-personal-blogs",
-            "stars": 3125,
+            "stars": 3124,
             "topics": []
           },
           "first_seen": "2026-08-28T18:59:08.658Z"
@@ -297,7 +297,7 @@
             "language": null,
             "license": "WTFPL",
             "last_commit": "2016-10-12T18:28:28Z",
-            "open_issues": 0,
+            "open_issues": 1,
             "owner": "inputsh",
             "repo": "awesome-blogs",
             "stars": 44,
@@ -433,7 +433,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T11:58:57.329Z",
+    "last_updated": "2026-10-04T12:49:42.349Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Awesome Ruby Blogs and Newsletters for Ruby Developers and Newbies",
