@@ -19,7 +19,7 @@
             "open_issues": 9,
             "owner": "markets",
             "repo": "awesome-ruby",
-            "stars": 14168,
+            "stars": 14169,
             "topics": [
               "awesome",
               "awesome-list",
@@ -75,7 +75,7 @@
             "open_issues": 0,
             "owner": "gramantin",
             "repo": "awesome-rails",
-            "stars": 3932,
+            "stars": 3933,
             "topics": [
               "awesome",
               "awesome-list",
@@ -171,7 +171,7 @@
             "open_issues": 0,
             "owner": "fpsvogel",
             "repo": "learn-ruby",
-            "stars": 855,
+            "stars": 856,
             "topics": [
               "awesome-list",
               "awesome-rails",
@@ -433,7 +433,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-09T13:42:02.645Z",
+    "last_updated": "2026-10-10T13:00:30.482Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Awesome Ruby Blogs and Newsletters for Ruby Developers and Newbies",
@@ -445,7 +445,7 @@
       "open_issues": 0,
       "owner": "Yegorov",
       "repo": "awesome-ruby-blogs",
-      "stars": 416,
+      "stars": 417,
       "topics": [
         "awesome",
         "awesome-list",
