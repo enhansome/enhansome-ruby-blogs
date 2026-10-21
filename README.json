@@ -19,7 +19,7 @@
             "open_issues": 10,
             "owner": "markets",
             "repo": "awesome-ruby",
-            "stars": 14171,
+            "stars": 14172,
             "topics": [
               "awesome",
               "awesome-list",
@@ -44,10 +44,10 @@
             "language": null,
             "license": null,
             "last_commit": "2026-10-01T13:40:00Z",
-            "open_issues": 59,
+            "open_issues": 60,
             "owner": "zudochkin",
             "repo": "awesome-newsletters",
-            "stars": 4500,
+            "stars": 4502,
             "topics": [
               "awesome",
               "awesome-list",
@@ -122,7 +122,7 @@
             "open_issues": 1,
             "owner": "dreikanter",
             "repo": "ruby-bookmarks",
-            "stars": 2309,
+            "stars": 2310,
             "topics": [
               "awesome",
               "awesome-list",
@@ -150,7 +150,7 @@
             "open_issues": 8,
             "owner": "sdogruyol",
             "repo": "awesome-ruby",
-            "stars": 1266,
+            "stars": 1265,
             "topics": []
           },
           "first_seen": "2026-08-28T18:59:08.658Z"
@@ -171,7 +171,7 @@
             "open_issues": 0,
             "owner": "fpsvogel",
             "repo": "learn-ruby",
-            "stars": 856,
+            "stars": 855,
             "topics": [
               "awesome-list",
               "awesome-rails",
@@ -433,7 +433,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-20T12:04:50.183Z",
+    "last_updated": "2026-10-21T12:19:18.563Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Awesome Ruby Blogs and Newsletters for Ruby Developers and Newbies",
