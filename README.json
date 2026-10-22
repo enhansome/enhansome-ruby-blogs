@@ -19,7 +19,7 @@
             "open_issues": 10,
             "owner": "markets",
             "repo": "awesome-ruby",
-            "stars": 14172,
+            "stars": 14174,
             "topics": [
               "awesome",
               "awesome-list",
@@ -44,10 +44,10 @@
             "language": null,
             "license": null,
             "last_commit": "2026-10-01T13:40:00Z",
-            "open_issues": 60,
+            "open_issues": 61,
             "owner": "zudochkin",
             "repo": "awesome-newsletters",
-            "stars": 4502,
+            "stars": 4503,
             "topics": [
               "awesome",
               "awesome-list",
@@ -75,7 +75,7 @@
             "open_issues": 0,
             "owner": "gramantin",
             "repo": "awesome-rails",
-            "stars": 3934,
+            "stars": 3935,
             "topics": [
               "awesome",
               "awesome-list",
@@ -98,7 +98,7 @@
             "language": null,
             "license": null,
             "last_commit": "2024-08-05T10:05:56Z",
-            "open_issues": 39,
+            "open_issues": 38,
             "owner": "jkup",
             "repo": "awesome-personal-blogs",
             "stars": 3128,
@@ -234,7 +234,7 @@
             "language": null,
             "license": null,
             "last_commit": "2026-07-02T07:13:37Z",
-            "open_issues": 3,
+            "open_issues": 2,
             "owner": "endymion1818",
             "repo": "awesome-developer-blogs",
             "stars": 143,
@@ -433,7 +433,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-21T12:19:18.563Z",
+    "last_updated": "2026-10-22T12:20:37.277Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Awesome Ruby Blogs and Newsletters for Ruby Developers and Newbies",
