@@ -1,7 +1,7 @@
 # Awesome Ruby blogs with stars
 
 > A curated list of Awesome Ruby blogs and newsletters for ruby developers and newbies.
-> Inspired by [Awesome Python blogs](https://github.com/mikeyny/awesome-python-blogs) ⭐ 179 | 🐛 7 | 📅 2024-08-12
+> Inspired by [Awesome Python blogs](https://github.com/mikeyny/awesome-python-blogs) ⭐ 180 | 🐛 7 | 📅 2024-08-12
 
 ![Ruby](https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ruby/ruby.png)
 
@@ -774,8 +774,8 @@
 
 ## Other Awesome Ruby (and blogs) Lists [![OPML](https://img.shields.io/badge/OPML-000000?style=flat-square\&color=orange)](/opml/other.opml)
 
-* [markets/awesome-ruby](https://github.com/markets/awesome-ruby) ⭐ 14,174 | 🐛 10 | 📅 2026-10-05
-* [Awesome Newsletters Ruby](https://github.com/zudochkin/awesome-newsletters#ruby) ⭐ 4,503 | 🐛 61 | 📅 2026-10-01
+* [markets/awesome-ruby](https://github.com/markets/awesome-ruby) ⭐ 14,175 | 🐛 10 | 📅 2026-10-05
+* [Awesome Newsletters Ruby](https://github.com/zudochkin/awesome-newsletters#ruby) ⭐ 4,504 | 🐛 65 | 📅 2026-10-01
 * [gramantin/awesome-rails](https://github.com/gramantin/awesome-rails) ⭐ 3,935 | 🐛 0 | 📅 2026-10-15
 * [jkup/awesome-personal-blogs](https://github.com/jkup/awesome-personal-blogs) ⭐ 3,128 | 🐛 38 | 📅 2024-08-05
 * [dreikanter/ruby-bookmarks](https://github.com/dreikanter/ruby-bookmarks) ⭐ 2,310 | 🐛 1 | 📅 2026-04-09
@@ -848,4 +848,4 @@ Note, Web archive and GitHub entries are permanently locked and never updated au
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-22._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-23._
