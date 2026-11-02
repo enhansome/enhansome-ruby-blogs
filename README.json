@@ -16,10 +16,10 @@
             "language": null,
             "license": null,
             "last_commit": "2026-10-05T07:53:58Z",
-            "open_issues": 9,
+            "open_issues": 10,
             "owner": "markets",
             "repo": "awesome-ruby",
-            "stars": 14186,
+            "stars": 14187,
             "topics": [
               "awesome",
               "awesome-list",
@@ -44,10 +44,10 @@
             "language": null,
             "license": null,
             "last_commit": "2026-10-01T13:40:00Z",
-            "open_issues": 69,
+            "open_issues": 70,
             "owner": "zudochkin",
             "repo": "awesome-newsletters",
-            "stars": 4510,
+            "stars": 4511,
             "topics": [
               "awesome",
               "awesome-list",
@@ -72,10 +72,10 @@
             "language": null,
             "license": "MIT",
             "last_commit": "2026-10-31T06:27:41Z",
-            "open_issues": 0,
+            "open_issues": 1,
             "owner": "gramantin",
             "repo": "awesome-rails",
-            "stars": 3938,
+            "stars": 3939,
             "topics": [
               "awesome",
               "awesome-list",
@@ -101,7 +101,7 @@
             "open_issues": 38,
             "owner": "jkup",
             "repo": "awesome-personal-blogs",
-            "stars": 3130,
+            "stars": 3131,
             "topics": []
           },
           "first_seen": "2026-08-28T18:59:08.658Z"
@@ -122,7 +122,7 @@
             "open_issues": 1,
             "owner": "dreikanter",
             "repo": "ruby-bookmarks",
-            "stars": 2311,
+            "stars": 2312,
             "topics": [
               "awesome",
               "awesome-list",
@@ -433,7 +433,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-01T13:44:45.005Z",
+    "last_updated": "2026-11-02T16:29:55.253Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Awesome Ruby Blogs and Newsletters for Ruby Developers and Newbies",

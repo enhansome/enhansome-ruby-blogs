@@ -774,11 +774,11 @@
 
 ## Other Awesome Ruby (and blogs) Lists [![OPML](https://img.shields.io/badge/OPML-000000?style=flat-square\&color=orange)](/opml/other.opml)
 
-* [markets/awesome-ruby](https://github.com/markets/awesome-ruby) ⭐ 14,186 | 🐛 9 | 📅 2026-10-05
-* [Awesome Newsletters Ruby](https://github.com/zudochkin/awesome-newsletters#ruby) ⭐ 4,510 | 🐛 69 | 📅 2026-10-01
-* [gramantin/awesome-rails](https://github.com/gramantin/awesome-rails) ⭐ 3,938 | 🐛 0 | 📅 2026-10-31
-* [jkup/awesome-personal-blogs](https://github.com/jkup/awesome-personal-blogs) ⭐ 3,130 | 🐛 38 | 📅 2024-08-05
-* [dreikanter/ruby-bookmarks](https://github.com/dreikanter/ruby-bookmarks) ⭐ 2,311 | 🐛 1 | 📅 2026-04-09
+* [markets/awesome-ruby](https://github.com/markets/awesome-ruby) ⭐ 14,187 | 🐛 10 | 📅 2026-10-05
+* [Awesome Newsletters Ruby](https://github.com/zudochkin/awesome-newsletters#ruby) ⭐ 4,511 | 🐛 70 | 📅 2026-10-01
+* [gramantin/awesome-rails](https://github.com/gramantin/awesome-rails) ⭐ 3,939 | 🐛 1 | 📅 2026-10-31
+* [jkup/awesome-personal-blogs](https://github.com/jkup/awesome-personal-blogs) ⭐ 3,131 | 🐛 38 | 📅 2024-08-05
+* [dreikanter/ruby-bookmarks](https://github.com/dreikanter/ruby-bookmarks) ⭐ 2,312 | 🐛 1 | 📅 2026-04-09
 * [sdogruyol/awesome-ruby](https://github.com/sdogruyol/awesome-ruby) ⚠️ Archived
 * [fpsvogel/learn-ruby](https://github.com/fpsvogel/learn-ruby) ⭐ 855 | 🐛 0 | 🌐 Ruby | 📅 2026-10-05
 * [learn-anything/blogs#ruby](https://github.com/learn-anything/blogs#ruby) ⭐ 533 | 🐛 8 | 📅 2024-01-02
@@ -848,4 +848,4 @@ Note, Web archive and GitHub entries are permanently locked and never updated au
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-01._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-02._
