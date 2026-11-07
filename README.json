@@ -19,7 +19,7 @@
             "open_issues": 11,
             "owner": "markets",
             "repo": "awesome-ruby",
-            "stars": 14183,
+            "stars": 14184,
             "topics": [
               "awesome",
               "awesome-list",
@@ -47,7 +47,7 @@
             "open_issues": 75,
             "owner": "zudochkin",
             "repo": "awesome-newsletters",
-            "stars": 4511,
+            "stars": 4513,
             "topics": [
               "awesome",
               "awesome-list",
@@ -75,7 +75,7 @@
             "open_issues": 0,
             "owner": "gramantin",
             "repo": "awesome-rails",
-            "stars": 3939,
+            "stars": 3938,
             "topics": [
               "awesome",
               "awesome-list",
@@ -101,7 +101,7 @@
             "open_issues": 39,
             "owner": "jkup",
             "repo": "awesome-personal-blogs",
-            "stars": 3131,
+            "stars": 3132,
             "topics": []
           },
           "first_seen": "2026-08-28T18:59:08.658Z"
@@ -167,7 +167,7 @@
             "id": 368956146,
             "language": "Ruby",
             "license": null,
-            "last_commit": "2026-10-05T19:47:26Z",
+            "last_commit": "2026-11-06T22:20:05Z",
             "open_issues": 0,
             "owner": "fpsvogel",
             "repo": "learn-ruby",
@@ -197,7 +197,7 @@
         {
           "node_type": "item",
           "title": "learn-anything/blogs#ruby",
-          "description": "linsa-io/blogs",
+          "description": "gendotnew/blogs",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -208,9 +208,9 @@
             "license": null,
             "last_commit": "2024-01-02T22:59:20Z",
             "open_issues": 8,
-            "owner": "linsa-io",
+            "owner": "gendotnew",
             "repo": "blogs",
-            "stars": 533,
+            "stars": 534,
             "topics": [
               "awesome",
               "awesome-list",
@@ -433,7 +433,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-06T14:34:26.261Z",
+    "last_updated": "2026-11-07T13:29:55.838Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Awesome Ruby Blogs and Newsletters for Ruby Developers and Newbies",
@@ -445,7 +445,7 @@
       "open_issues": 0,
       "owner": "Yegorov",
       "repo": "awesome-ruby-blogs",
-      "stars": 417,
+      "stars": 416,
       "topics": [
         "awesome",
         "awesome-list",
