@@ -44,10 +44,10 @@
             "language": null,
             "license": null,
             "last_commit": "2026-10-01T13:40:00Z",
-            "open_issues": 75,
+            "open_issues": 74,
             "owner": "zudochkin",
             "repo": "awesome-newsletters",
-            "stars": 4513,
+            "stars": 4511,
             "topics": [
               "awesome",
               "awesome-list",
@@ -122,7 +122,7 @@
             "open_issues": 1,
             "owner": "dreikanter",
             "repo": "ruby-bookmarks",
-            "stars": 2310,
+            "stars": 2309,
             "topics": [
               "awesome",
               "awesome-list",
@@ -433,7 +433,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-07T13:29:55.838Z",
+    "last_updated": "2026-11-08T13:49:07.797Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Awesome Ruby Blogs and Newsletters for Ruby Developers and Newbies",
