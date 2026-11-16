@@ -774,7 +774,7 @@
 
 ## Other Awesome Ruby (and blogs) Lists [![OPML](https://img.shields.io/badge/OPML-000000?style=flat-square\&color=orange)](/opml/other.opml)
 
-* [markets/awesome-ruby](https://github.com/markets/awesome-ruby) ⭐ 14,186 | 🐛 12 | 📅 2026-11-12
+* [markets/awesome-ruby](https://github.com/markets/awesome-ruby) ⭐ 14,187 | 🐛 13 | 📅 2026-11-12
 * [Awesome Newsletters Ruby](https://github.com/zudochkin/awesome-newsletters#ruby) ⭐ 4,510 | 🐛 80 | 📅 2026-10-01
 * [gramantin/awesome-rails](https://github.com/gramantin/awesome-rails) ⭐ 3,938 | 🐛 0 | 📅 2026-11-03
 * [jkup/awesome-personal-blogs](https://github.com/jkup/awesome-personal-blogs) ⭐ 3,134 | 🐛 40 | 📅 2024-08-05
@@ -848,4 +848,4 @@ Note, Web archive and GitHub entries are permanently locked and never updated au
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-15._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-16._
