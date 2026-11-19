@@ -16,10 +16,10 @@
             "language": null,
             "license": null,
             "last_commit": "2026-11-17T08:46:42Z",
-            "open_issues": 14,
+            "open_issues": 15,
             "owner": "markets",
             "repo": "awesome-ruby",
-            "stars": 14189,
+            "stars": 14191,
             "topics": [
               "awesome",
               "awesome-list",
@@ -75,7 +75,7 @@
             "open_issues": 0,
             "owner": "gramantin",
             "repo": "awesome-rails",
-            "stars": 3941,
+            "stars": 3940,
             "topics": [
               "awesome",
               "awesome-list",
@@ -433,7 +433,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-18T15:56:44.726Z",
+    "last_updated": "2026-11-19T16:01:13.055Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Awesome Ruby Blogs and Newsletters for Ruby Developers and Newbies",
