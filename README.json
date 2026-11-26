@@ -19,7 +19,7 @@
             "open_issues": 14,
             "owner": "markets",
             "repo": "awesome-ruby",
-            "stars": 14190,
+            "stars": 14189,
             "topics": [
               "awesome",
               "awesome-list",
@@ -171,7 +171,7 @@
             "open_issues": 0,
             "owner": "fpsvogel",
             "repo": "learn-ruby",
-            "stars": 856,
+            "stars": 857,
             "topics": [
               "awesome-list",
               "awesome-rails",
@@ -433,7 +433,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-25T17:35:07.978Z",
+    "last_updated": "2026-11-26T17:16:34.429Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Awesome Ruby Blogs and Newsletters for Ruby Developers and Newbies",
